@@ -72,7 +72,7 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 - [秀和システム様の商品紹介ページ](https://www.shuwasystem.co.jp/book/9784798066332.html)
 - [Amazonリンク](https://amazon.co.jp/dp/4798066338)
-- [楽天Booksリンク](https://books.rakuten.co.jp/search?sv=30&v=2&oid=000&f=A&g=001&p=0&s=0&e=0&sitem=9784798066332)
+- [楽天ブックスリンク](https://books.rakuten.co.jp/search?sv=30&v=2&oid=000&f=A&g=001&p=0&s=0&e=0&sitem=9784798066332)
 - [著者Twitter](https://twitter.com/Beluuuuuuga)
 
 ## 正誤表・質問集
