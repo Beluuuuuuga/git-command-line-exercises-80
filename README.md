@@ -91,7 +91,7 @@ GIFは質問の時のIssueを立てるときの例です。
 
 ![Issue](https://user-images.githubusercontent.com/45144084/156631911-3a23e165-6f92-4e2e-bdd9-5b91a15cf4d4.gif)
 
-(心優しい方は、著者でなくても自由に質問答えていただきますと大変助かります。)
+(心優しい方は、著者でなくても自由に質問答えていただいて大丈夫です。)
 
 ある程度、誤植や質問まとまったタイミングでIssueの内容を正誤表とよくある質問集にまとめ、Issueをクローズします。
 
@@ -100,4 +100,7 @@ GIFは質問の時のIssueを立てるときの例です。
 - [正誤表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%AD%A3%E8%AA%A4%E8%A1%A8)
 - [よくある質問集](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/FAQ)
 
+## アップデート情報
+
+アップデート情報は[リリースノート](https://github.com/Beluuuuuuga/git-command-line-exercises-80/releases/)を確認してください。
 
