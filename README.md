@@ -67,7 +67,7 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 演習時の環境については、**演習問題の環境**を確認してください。
 
 - [部・章・節・演習問題の一覧](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E9%83%A8%E3%83%BB%E7%AB%A0%E3%83%BB%E7%AF%80%E3%83%BB%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E4%B8%80%E8%A6%A7)
-- [演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E8%A9%B3%E7%B4%B0)
+- [演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A9%B3%E7%B4%B0)
 - [演習問題の環境](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E7%92%B0%E5%A2%83)
 
 ## リンク集
