@@ -1,6 +1,6 @@
 ---
 name: Bug Issue
-about: Standard template
+about: Bug template
 title: ''
 labels: 'bug'
 assignees: ''
