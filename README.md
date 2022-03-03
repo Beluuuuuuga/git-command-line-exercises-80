@@ -82,6 +82,11 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 - [Twitter](https://twitter.com/Beluuuuuuga)
 
+## 質問・感想・誤植
+こちらから[Issues](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問・感想・誤植を記載してください。
+
+自動的にLabelが貼られます。
+
 ## 正誤表・質問集
 
 - [正誤表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%AD%A3%E8%AA%A4%E8%A1%A8)
