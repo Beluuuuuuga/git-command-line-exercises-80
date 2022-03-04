@@ -22,7 +22,7 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 コマンドラインを使って演習を行うので、問題を解くだけでスキルアップができます。
 
-[GitHub](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E8%A9%B3%E7%B4%B0)から演習問題のダウンロードができます。
+[GitHub](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8)から演習問題のダウンロードができます。
 
 ## 目次
 
@@ -54,35 +54,27 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 - 第13章 基本問題に取り組もう
 - 第14章 応用問題に取り組もう
 
-
 ## 演習問題
 - 演習問題は[演習問題一覧表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8)からダウンロード可能です
-- 演習問題の情報については[演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A9%B3%E7%B4%B0)で確認してください
-- [部・章・節・演習問題の一覧](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E9%83%A8%E3%83%BB%E7%AB%A0%E3%83%BB%E7%AF%80%E3%83%BB%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E4%B8%80%E8%A6%A7)
-- [演習問題の環境](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E7%92%B0%E5%A2%83)
+- 演習問題の情報については[演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A9%B3%E7%B4%B0)にて確認してください
+- 部や章や演習問題の関係は[部・章・節・演習問題の一覧](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E9%83%A8%E3%83%BB%E7%AB%A0%E3%83%BB%E7%AF%80%E3%83%BB%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E4%B8%80%E8%A6%A7)にて確認してください
+- 演習問題の環境については[演習問題の環境](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E7%92%B0%E5%A2%83)にて確認してください
 
 ## お知らせ (2022/03/05)
-- 演習60、演習61、演習62、演習63は現在演習ディレクトリが用意されていないので、次のv1.0.0でリリースします
+- 演習60、演習61、演習62、演習63は現在演習ディレクトリが用意されていないので、次のv1.0.0でリリースします。ディレクトリが用意されてから演習できますので、それまでお待ちいただくか、手元でできる方は演習してください。
 - 書籍内の`git@GitHub`の部分は`git@github`の間違いです（Issueに記載済み）
 
 ## リンク集
-商品リンクです。
-
-- [秀和システム](https://www.shuwasystem.co.jp/book/9784798066332.html)
-- [Amazon](https://amazon.co.jp/dp/4798066338)
-- [楽天ブックス](https://books.rakuten.co.jp/rb/16985932/?l-id=search-c-item-text-01)
-
-書籍関連のリポジトリです。
-
-- [フォークの演習問題用のリポジトリ](https://github.com/Beluuuuuuga/git-practice-80-fork)
-
-著者のTwitterアカウントです。
-
-- [Twitter](https://twitter.com/Beluuuuuuga)
-
-YouTubeです。
-
-- [書籍の紹介](https://www.youtube.com/watch?v=NKJ-ladDnHY)
+- 商品リンク
+  - [秀和システム](https://www.shuwasystem.co.jp/book/9784798066332.html)
+  - [Amazon](https://amazon.co.jp/dp/4798066338)
+  - [楽天ブックス](https://books.rakuten.co.jp/rb/16985932/?l-id=search-c-item-text-01)
+- 書籍関連のリポジトリ
+  - [フォークの演習問題用のリポジトリ](https://github.com/Beluuuuuuga/git-practice-80-fork)
+- 著者
+  - [Twitter](https://twitter.com/Beluuuuuuga)
+- YouTube
+  - [書籍の紹介](https://www.youtube.com/watch?v=NKJ-ladDnHY)
 
 ## 質問・感想・誤植
 ### 検索する
