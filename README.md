@@ -102,7 +102,7 @@ YouTubeです。
 
 質問は[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues)のquestionのラベルで検索してください。
 
-未知の質問だった場合は、Issueを立てて
+未知の質問だった場合は、Issueを立てて聞いてもらえると全ては難しいですが本書に関係ある答えられそうな質問は答えたいと思います(回答者は著者でなくても可)。
 
 ### Issueを立てる
 こちらから[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問(Question Issue)・感想(Review Issue)・誤植(Bug Issue)を記載してください。
