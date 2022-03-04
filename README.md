@@ -1,12 +1,6 @@
-# 注意　発売日の~~3/4 16:00~22:00~~ 3/5 からサポートサイトご利用いただけます。最終調整中ですので~~3/4~~3/5までこちらサポートサイトのご利用お控えください。（遅れてしまい申し訳ないです）
-
-
-
 # 実務レベルでわかる/使いこなせるようになるGit入門コマンドライン演習80
 
 <img src="https://user-images.githubusercontent.com/45144084/155831378-cc323401-1900-4d02-9a4e-d92d51bf7e3e.png" alt="drawing" width="250"/>
-
-
 
 書籍『実務レベルでわかる/使いこなせるようになるGit入門コマンドライン演習80』(秀和システム発行)のサポートサイトです。
 
@@ -62,15 +56,14 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 
 ## 演習問題
-
-演習問題は**演習問題の詳細**からダウンロード可能です。
-**~~3/4~~3/5からご利用いただけます。**
-
-演習時の環境については、**演習問題の環境**を確認してください。
-
+- 演習問題は[演習問題一覧表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8)からダウンロード可能です
+- 演習問題の情報については[演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A9%B3%E7%B4%B0)で確認してください
 - [部・章・節・演習問題の一覧](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E9%83%A8%E3%83%BB%E7%AB%A0%E3%83%BB%E7%AF%80%E3%83%BB%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E4%B8%80%E8%A6%A7)
-- [演習問題の詳細](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A9%B3%E7%B4%B0)
 - [演習問題の環境](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E7%92%B0%E5%A2%83)
+
+## お知らせ (2022/03/05)
+- 演習60、演習61、演習62、演習63は現在演習ディレクトリが用意されていないので、次のv1.0.0でリリースします
+- 書籍内の`git@GitHub`の部分は`git@github`の間違いです（Issueに記載済み）
 
 ## リンク集
 商品リンクです。
@@ -89,13 +82,10 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 YouTubeです。
 
-問題演習のYouTube動画も公開予定です。
-
 - [書籍の紹介](https://www.youtube.com/watch?v=NKJ-ladDnHY)
 
-
 ## 質問・感想・誤植
-### 検索
+### 検索する
 誤植の疑いがあった場合は[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues)のbugのラベルで検索するか、[正誤表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%AD%A3%E8%AA%A4%E8%A1%A8)を確認してください。
 
 未知の誤植だった場合は、Issueを立てていただけますと助かります。
