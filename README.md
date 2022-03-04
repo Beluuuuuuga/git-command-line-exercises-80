@@ -14,6 +14,8 @@
 
 [Amazon](https://amazon.co.jp/dp/4798066338)やその他ECサイトから購入できます。
 
+書籍の簡単な紹介はこちらの[YouTube](https://www.youtube.com/watch?v=NKJ-ladDnHY)でも行ってますので、ご参照ください。
+
 よろしければご購入のほどよろしくお願い致します。
 
 ## 本書の特徴
