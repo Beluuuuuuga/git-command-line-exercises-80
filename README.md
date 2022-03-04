@@ -95,9 +95,19 @@ YouTubeです。
 
 
 ## 質問・感想・誤植
+### 検索
+誤植の疑いがあった場合は[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues)のbugのラベルで検索するか、[正誤表](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%AD%A3%E8%AA%A4%E8%A1%A8)を確認してください。
+
+未知の誤植だった場合は、Issueを立てていただけますと助かります。
+
+質問は[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues)のquestionのラベルで検索してください。
+
+未知の質問だった場合は、Issueを立てて
+
+### Issueを立てる
 こちらから[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問(Question Issue)・感想(Review Issue)・誤植(Bug Issue)を記載してください。
 
-自動的に`question`、`review`、`bug`のラベルが貼られます。
+自動的にquestion、review、bugのラベルが貼られます。
 
 GIFは質問の時のIssueを立てるときの例です。
 
