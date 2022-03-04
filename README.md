@@ -74,7 +74,7 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 商品リンクです。
 
-- [秀和システム様の商品紹介](https://www.shuwasystem.co.jp/book/9784798066332.html)
+- [秀和システム](https://www.shuwasystem.co.jp/book/9784798066332.html)
 - [Amazon](https://amazon.co.jp/dp/4798066338)
 - [楽天ブックス](https://books.rakuten.co.jp/rb/16985932/?l-id=search-c-item-text-01)
 
@@ -107,4 +107,8 @@ GIFは質問の時のIssueを立てるときの例です。
 ## マイルストーン
 
 これからサポートページに追加される内容は[マイルストーン](https://github.com/Beluuuuuuga/git-command-line-exercises-80/milestone/1)を確認してください。
+
+## 謝辞
+
+本書を執筆するにあたり、校閲していただきました近藤大介様、協力していただきました末原和樹様、関わった全ての皆様に心から感謝申し上げます。
 
