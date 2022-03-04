@@ -82,6 +82,10 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 
 - [Twitter](https://twitter.com/Beluuuuuuga)
 
+YouTubeです。
+
+- [書籍の全体説明](https://www.youtube.com/watch?v=NKJ-ladDnHY)
+
 ## 質問・感想・誤植
 こちらから[Issues](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問(Question Issue)・感想(Review Issue)・誤植(Bug Issue)を記載してください。
 
