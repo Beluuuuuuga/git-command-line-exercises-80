@@ -73,12 +73,15 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 - [演習問題の環境](https://github.com/Beluuuuuuga/git-command-line-exercises-80/wiki/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E3%81%AE%E7%92%B0%E5%A2%83)
 
 ## リンク集
-
 商品リンクです。
 
 - [秀和システム](https://www.shuwasystem.co.jp/book/9784798066332.html)
 - [Amazon](https://amazon.co.jp/dp/4798066338)
 - [楽天ブックス](https://books.rakuten.co.jp/rb/16985932/?l-id=search-c-item-text-01)
+
+書籍関連のリポジトリです。
+
+- [フォークの演習問題用のリポジトリ](https://github.com/Beluuuuuuga/git-practice-80-fork)
 
 著者のTwitterアカウントです。
 
@@ -92,7 +95,7 @@ YouTubeです。
 
 
 ## 質問・感想・誤植
-こちらから[Issues](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問(Question Issue)・感想(Review Issue)・誤植(Bug Issue)を記載してください。
+こちらから[Issue](https://github.com/Beluuuuuuga/git-command-line-exercises-80/issues/new/choose)を立てて、質問(Question Issue)・感想(Review Issue)・誤植(Bug Issue)を記載してください。
 
 自動的に`question`、`review`、`bug`のラベルが貼られます。
 
