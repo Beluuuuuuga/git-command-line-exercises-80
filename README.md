@@ -74,7 +74,8 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 - 著者
   - [Twitter](https://twitter.com/Beluuuuuuga)
 - YouTube
-  - [書籍の紹介](https://www.youtube.com/watch?v=NKJ-ladDnHY)
+  - [書籍の紹介](https://youtu.be/NKJ-ladDnHY)
+  - [演習問題の詳細](https://youtu.be/FygftWWLtiE)
 
 ## 質問・感想・誤植
 ### 検索する
