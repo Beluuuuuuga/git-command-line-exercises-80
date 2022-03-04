@@ -104,3 +104,7 @@ GIFは質問の時のIssueを立てるときの例です。
 
 アップデート情報は[リリースノート](https://github.com/Beluuuuuuga/git-command-line-exercises-80/releases/)を確認してください。
 
+## マイルストーン
+
+これからサポートページに追加される内容は[マイルストーン](https://github.com/Beluuuuuuga/git-command-line-exercises-80/milestone/1)を確認してください。
+
