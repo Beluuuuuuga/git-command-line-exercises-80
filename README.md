@@ -80,6 +80,10 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
 - 動画演習7~9解説追加
 - practice09-2のzipを入れ替えました。3/06の18:00までにダウンロードした方は再度ダウンロードお願いします。
 
+2022/03/07
+- 動画演習10~12解説追加
+- 動画演習13解説追加
+
 ## リンク集
 - 商品リンク
   - [秀和システム](https://www.shuwasystem.co.jp/book/9784798066332.html)
@@ -94,6 +98,9 @@ Git(ギット）はプログラムのバージョン管理に必須のシステ�
   - [演習問題の詳細](https://youtu.be/FygftWWLtiE)
   - [演習問題の1~6の解説](https://youtu.be/pahLeqSc77c)
   - [演習問題の7~9の解説](https://youtu.be/01JmV8beGwk)
+  - [演習問題の10~12の解説](https://youtu.be/YFJnuAMidRo)
+  - [演習問題の13の解説](https://youtu.be/4RDnZ2HWW4I)
+
 
 ## 質問・感想・誤植
 ### 検索する
